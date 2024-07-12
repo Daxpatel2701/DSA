@@ -11,7 +11,7 @@ class s
             cin>>a;
             cout<<"Enter the value of B :";
             cin>>b;
-            cout<<"Enter the value of C :";
+            // cout<<"Enter the value of C :";
             cin>>c;
             if(a>b&&a>c)
             {
